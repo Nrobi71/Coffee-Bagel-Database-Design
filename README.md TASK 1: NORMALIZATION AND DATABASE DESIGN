@@ -1,1 +1,7 @@
+This course covers conceptual data modeling and provides an introduction to MySQL. Students will learn how 
+to create simple to complex SELECT queries including subqueries and joins, and students will also 
+learn how to use SQL to update and delete data. Topics covered in this course include exposure to MySQL; 
+developing physical schemas; creating and modifying databases, tables, views, foreign keys/primary keys 
+(FKs/PKs), and indexes; populating tables; and developing simple Select-From-Where (SFW) queries 
+to complex 3+ table join queries.
 
