@@ -1,8 +1,8 @@
-# Data Management Applications - C170:
-# Normalization and Database Design
+### Data Management Applications - C170:
+### TASK 1 - Normalization and Database Design
 
 
-INTRODUCTION:
+## INTRODUCTION:
 
 For this assessment, I created an entity-relationship (ER) model, databases, tables, and queries for two fictional small businesses. I utilized SQL to test and run a database application I developed. After running the code, I took a screenshot of my results and paste the screenshot into a document. 
 
@@ -10,14 +10,15 @@ The work I completed for each part of the assessment (i.e., the design models an
 
 
 
-SCENARIO:
+## SCENARIO:
 
 You are a database designer and developer who has been hired by two local businesses, Nora’s Bagel Bin and Jaunty Coffee Co., to build databases to help them manage their businesses. First, you will design a normalized physical database model to store data for Nora’s Bagel Bin’s ordering system. Then, you will use an existing database design document for Jaunty Coffee Co. to create its database. Once the tables have been built, you will load them with sample data and create a view and an index to protect and improve query performance. Finally, you will create both a simple query and a more complex table joins query to produce meaningful reports from the newly created database.
 
 
-REQUIREMENTS:
+## REQUIREMENTS:
 
-A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
+# A.  
+Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
 
  
 
@@ -63,7 +64,8 @@ b.  Assign one of the following five data types to each attribute in your 3NF ta
 
  
 
-B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
+# B.  
+Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
 
 1.  Develop SQL code to create each table as specified in the attached “Jaunty Coffee Co. ERD” by doing the following:
 
