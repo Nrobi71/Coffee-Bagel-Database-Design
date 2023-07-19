@@ -1,5 +1,5 @@
-### Data Management Applications - C170:
-### TASK 1 - Normalization and Database Design
+# Data Management Applications - C170:
+# TASK 1 - Normalization and Database Design
 
 
 ## INTRODUCTION:
@@ -17,8 +17,7 @@ You are a database designer and developer who has been hired by two local busine
 
 ## REQUIREMENTS:
 
-# A.  
-Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
+* A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
 
  
 
@@ -64,8 +63,7 @@ b.  Assign one of the following five data types to each attribute in your 3NF ta
 
  
 
-# B.  
-Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
+B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the following:
 
 1.  Develop SQL code to create each table as specified in the attached “Jaunty Coffee Co. ERD” by doing the following:
 
