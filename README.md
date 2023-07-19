@@ -25,6 +25,7 @@ A.  Construct a normalized physical database model to represent the ordering pro
 Note: Before proceeding, familiarize yourself with the ordering process for Nora’s Bagel Bin by reviewing the following documents in the Supporting Documents section of this task: the shop’s unnormalized sales order form (“Bagel Order Form”) and the first normal form (1NF) provided in the “Nora’s Bagel Bin Database Blueprints.” 
 
 
+
  
 
 1.  Complete the second normal form (2NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
@@ -41,6 +42,7 @@ Note: Cardinality is read left to right and top to bottom, and the preferred met
 
 
  c.  Explain how you assigned attributes to the 2NF tables and determined the cardinality of the relationships between your 2NF tables.
+
 
 
  
@@ -65,11 +67,13 @@ e.  Explain how you assigned attributes to the 3NF tables and determined the car
 
 
 
+
 3.  Complete the "Final Physical Database Model" section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
 a.  Copy the table names and cardinality information from your 3NF diagram into the “Final Physical Database Model” and rename the attributes.
 
 b.  Assign one of the following five data types to each attribute in your 3NF tables: CHAR(), VARCHAR(), TIMESTAMP, INTEGER, or NUMERIC(). Each data type must be used at least once.
+
 
 
  
@@ -81,6 +85,7 @@ B.  Create a database using the attached "Jaunty Coffee Co. ERD" by doing the fo
 a.  Provide the SQL code you wrote to create all the tables.
 
 b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
+
 
 
 
@@ -100,11 +105,13 @@ b.  Demonstrate that you tested your code by providing a screenshot showing your
 
 
 
+
 3.  Develop SQL code to create a view by doing the following: 
 
 a.  Provide the SQL code you wrote to create your view. The view should show all of the information from the “Employee” table but concatenate each employee’s first and last name, formatted with a space between the first and last name, into a new attribute called employee_full_name.
 
 b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
+
 
 
 
@@ -118,11 +125,13 @@ b.  Demonstrate that you tested your code by providing a screenshot showing your
 
 
 
+
 5.  Develop SQL code to create an SFW (SELECT–FROM–WHERE) query for any of your tables or views by doing the following: 
 
 a.  Provide the SQL code you wrote to create your SFW query.
 
 b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
+
 
 
 
@@ -134,11 +143,13 @@ a.  Provide the SQL code you wrote to create your table joins query. The query s
 b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
 
 
+
  
 
 C.  Submit parts A and B as a PDF, with each part clearly labeled.
 
  
+
 
 
 D.  Demonstrate professional communication in the content and presentation of your submission.
