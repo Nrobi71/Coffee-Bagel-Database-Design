@@ -17,26 +17,30 @@ You are a database designer and developer who has been hired by two local busine
 
 ## REQUIREMENTS:
 
-* A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
+A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
+
 
  
 
 Note: Before proceeding, familiarize yourself with the ordering process for Nora’s Bagel Bin by reviewing the following documents in the Supporting Documents section of this task: the shop’s unnormalized sales order form (“Bagel Order Form”) and the first normal form (1NF) provided in the “Nora’s Bagel Bin Database Blueprints.” 
 
+
  
 
 1.  Complete the second normal form (2NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
-a.  Assign each attribute from the 1NF table into the correct 2NF table.
+- a.  Assign each attribute from the 1NF table into the correct 2NF table.
 
-b.  Describe the relationship between the two pairs of 2NF tables by indicating their cardinality in each of the dotted cells: one-to-one (1:1), one-to-many (1:M), many-to-one (M:1), or many-to-many (M:M).
+- b.  Describe the relationship between the two pairs of 2NF tables by indicating their cardinality in each of the dotted cells: one-to-one (1:1), one-to-many (1:M), many-to-one (M:1), or many-to-many (M:M).
+
 
 
 
 Note: Cardinality is read left to right and top to bottom, and the preferred method of notation is crow's foot.
 
 
-c.  Explain how you assigned attributes to the 2NF tables and determined the cardinality of the relationships between your 2NF tables.
+
+- c.  Explain how you assigned attributes to the 2NF tables and determined the cardinality of the relationships between your 2NF tables.
 
 2.  Complete the third normal form (3NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
