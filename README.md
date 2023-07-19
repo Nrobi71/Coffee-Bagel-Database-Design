@@ -29,7 +29,7 @@ Note: Before proceeding, familiarize yourself with the ordering process for Nora
 
 1.  Complete the second normal form (2NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
-*- a.  Assign each attribute from the 1NF table into the correct 2NF table.
+** a.  Assign each attribute from the 1NF table into the correct 2NF table.
 
 - b.  Describe the relationship between the two pairs of 2NF tables by indicating their cardinality in each of the dotted cells: one-to-one (1:1), one-to-many (1:M), many-to-one (M:1), or many-to-many (M:M).
 
