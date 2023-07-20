@@ -19,15 +19,6 @@ You are a database designer and developer who has been hired by two local busine
 
 A.  Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
 
-
- 
-
-Note: Before proceeding, familiarize yourself with the ordering process for Nora’s Bagel Bin by reviewing the following documents in the Supporting Documents section of this task: the shop’s unnormalized sales order form (“Bagel Order Form”) and the first normal form (1NF) provided in the “Nora’s Bagel Bin Database Blueprints.” 
-
-
-
- 
-
 1.  Complete the second normal form (2NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
   a.  Assign each attribute from the 1NF table into the correct 2NF table.
